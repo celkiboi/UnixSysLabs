@@ -1,0 +1,10 @@
+# Ignore everything
+**
+
+# Allow directories so we can match files within them
+!*/
+
+# Allow specific file types
+!*.gitignore
+!*.c
+!*.h
